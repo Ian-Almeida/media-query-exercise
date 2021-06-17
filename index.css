@@ -5,6 +5,10 @@
 .bg-lightcoral {background-color: lightcoral}
 .bg-thistle {background-color: thistle}
 
+.mobile {display: none;}
+.tablet {display: none;}
+.desktop {display: none;}
+
 .top-line {
     width: 100vw;
     height: 20px;
@@ -16,40 +20,10 @@
     height: 100vh;
 }
 
-.feature {
+.flex-center {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.signup {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.mobile {
-    display: none;
-}
-
-.tablet {
-    display: none;
-}
-
-.desktop {
-    display: none;
 }
 
 /*SMARTPHONE*/
